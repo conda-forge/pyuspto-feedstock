@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.1"
+  version: "0.6.2"
 
 package:
   name: pyuspto
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pyUSPTO/pyuspto-${{ version }}.tar.gz
-  sha256: ca20b6ce71b07aff10d75d70057702e0b085ab6e6de4fc1b102fca1123191722
+  sha256: 64ee2ef344d41e5ac597240205d89781c1244538fb590f9cff4ece64d3463ffd
 
 build:
   number: 0
